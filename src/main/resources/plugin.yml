@@ -1,0 +1,6 @@
+name: MagikBucket
+version: 0.1.0
+main: io.github.gabehowe.magikbucket.MagikBucket
+api-version: 1.16
+authors: [ GabrielHowe ]
+description: Right to where the fish are!

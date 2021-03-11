@@ -1,0 +1,21 @@
+# only entities on this list will be subject to buckets (if you include cows, you'll never be able to get milk)
+bucketable-entities:
+  - SQUID
+  - POLAR_BEAR
+  - HORSE
+  - CAT
+  - CHICKEN
+  - COW
+  - FOX
+  - HORSE
+  - MUSHROOM_COW
+  - MULE
+  - OCELOT
+  - PARROT
+  - PIG
+  - RABBIT
+  - SHEEP
+  - SKELETON_HORSE
+  - SNOWMAN
+  - TURTLE
+  - VILLAGER
